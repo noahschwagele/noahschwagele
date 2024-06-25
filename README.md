@@ -49,7 +49,7 @@
 [course]: http://.com
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/noahschwagele
+[instagram]: https://instagram.com/noah_schwagele
 [linkedin]: https://linkedin.com/in/
 [webdevplaylist]: 123
 [jsplaylist]:123
