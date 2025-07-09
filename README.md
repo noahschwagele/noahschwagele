@@ -1,6 +1,5 @@
 ### Hi there, I'm Noah 👋
 
-## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 
