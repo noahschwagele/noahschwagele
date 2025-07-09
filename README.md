@@ -3,13 +3,6 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
-
-### Connect with me:
-
-[<img align="left" alt="noahschwagele | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,16 +27,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-</details>
 
 [website]: https://.com
 [course]: http://.com
