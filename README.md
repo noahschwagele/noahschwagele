@@ -28,9 +28,7 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio](https://yourportfolio.com)  
+- [LinkedIn](https://www.linkedin.com/in/noahschwagle)  
 
 ---
 
