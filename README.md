@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/noahschwagle)  
+- [LinkedIn](https://www.linkedin.com/in/noahschwagele/)  
 
 ---
 
