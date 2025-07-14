@@ -1,40 +1,51 @@
-### Hi there, I'm Noah 👋
+# Hi there 👋, I'm Noah Schwagele
 
-
-- 🌱 I’m currently learning everything 🤣
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
+🚀 Passionate about building clean, scalable, and impactful software solutions.  
+💻 Full-stack developer | React Native & Expo enthusiast | Backend wizard  
+🌍 Based in South Africa | Always eager to learn and collaborate globally
 
 ---
 
-[website]: https://.com
-[course]: http://.com
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/noah_schwagele
-[linkedin]: https://linkedin.com/in/
-[webdevplaylist]: 123
-[jsplaylist]:123
-[cssplaylist]: 123
-[reactplaylist]:123
+### 🔥 What I do
+
+- Develop mobile apps with **React Native & Expo** that users love  
+- Build robust backend APIs with **PHP** and modern frameworks  
+- Automate workflows & build bots for gaming, Discord & community engagement  
+- Tackle challenging problems with clean, maintainable code  
+- Share knowledge & contribute to open source  
+
+---
+
+### ⚡ Fun facts
+
+- I’ve been coding for over 5 years, turning ideas into real apps  
+- Built a headless Fortnite bot that manages custom lobbies & matchmaking  
+- Currently working on **SportyApp** — a sports event management platform  
+- Obsessed with clean UI/UX and smooth user experiences  
+- Avid learner of new tech and best practices  
+
+---
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourhandle)  
+- [Portfolio](https://yourportfolio.com)  
+
+---
+
+### 🚀 Let’s build something amazing together!  
+Check out my pinned repos below or open an issue to start a conversation!
+
+---
+
+### 🛠️ Technologies & Tools
+
+React Native | Expo | JavaScript | TypeScript | PHP | MySQL | Node.js | Express | Discord.js | Git | Docker | Firebase | REST APIs | GraphQL
+
+---
+
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahschwagele&show_icons=true&theme=radical)
+
+---
 
